@@ -1,0 +1,30 @@
+body{
+    background-color: #EEE1C6;
+}
+div{
+    background-color: #ffff;
+    padding: 2px;
+    margin-right: 23rem;
+    margin-left: 15rem;
+}
+p1{
+    color: black;
+    font-size: 2rem;
+}
+input{
+     width: 15rem
+}
+select {
+    background-color: #BEBAA7;
+}
+select {
+    background-color: #ffff;
+    border-color: #ffff;
+    
+}
+button{
+    background-color: #ffa500;
+    color: #ffff;
+    border-color: #ffa500;
+    border-radius: 4px;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+Div{
+        padding: 5px;
+
+}
+h1{
+    font-size: 20px;
+    font-style: italic;
+    padding: 2rem 2rem 2rem 30rem;
+    background-color: beige;
+    font;
+    }
+button{
+    background-color: green;
+    font-size: 20px;
+    object-position: 15% ;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
